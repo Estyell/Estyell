@@ -1,20 +1,32 @@
-<h1 align="left">Stella Ngei -  Data Analytics Portfolio</h1>
+<h1 align="left">Stella Ngei | Data Analyst & BI Specialist</h1>
 
 ###
 
 <h2 align="left">About me</h2>
 
 <p align="left">
- Hello there! My name is Stella Ngei, a tech enthusiast with an extensive IT career as a customer-facing and technical support specialist. I have worked
- in various companies, facing different kinds of clients, and dealing with different technological challenges, ranging from hardware, software, as well as customer related issues.
-  
- Because of my affinity to problem solving tasks, I made a change in my career path and pursued as degree in Data Science, with the aim of pursuing a caree that is data centric. During my studies, I honed the ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in machine learning techniques, data management, and statistical analysis, which I beleive will be valuable assets in my role as a data specialist.
+Hello there! My name is Stella Ngei, a tech enthusiast with an extensive IT career as a customer-facing and technical support specialist.
+I specialize in turning raw data into interactive Business Intelligence solutions. My work focuses on automation, data integrity, and strategic visualization to help businesses make data-driven decisions.
 
- In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+### 🛠️ Technical Stack
+* **Data Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel
+* **Visualization:** Looker Studio, Power BI, Tableau, Excel Dashboards
+* **Operations:** ETL Pipelines, Data Cleaning, Project Management
 
 </p>
+
+### 📊 Featured Projects
+
+#### [Bike Sales Demographic Dashboard](https://github.com/Estyell/Bike_Sales_Dashboard_Excel)
+*An interactive BI tool analyzing 1,000+ customer records to identify regional and demographic sales drivers.*
+* **Key Tools:** Power Query, Pivot Tables, Advanced Slicers.
+* **Impact:** Identified "Middle-Age" customers as the 50% revenue driver.
+
+#### [Sales Tracking System](https://github.com/Estyell/Sales_Tracking_Dashboard)
+*A structured database and visualizer for monitoring real-time KPI achievement.*
+* **Key Tools:** Data Modeling, Conditional Formatting, Trend Analysis.
 
 ###
 
@@ -49,3 +61,8 @@ March 2023 - April 2025
 Jomo Kenyatta University of Agriculture and Technology, Nairobi:
 Bachelor's degree, Information Technology,
 2014 - 2018
+
+---
+
+📫 **How to reach me:** [https://www.linkedin.com/in/stella-ngei-95241565]
+🚀 **Available for:** Data Analysis & BI Consulting projects.
