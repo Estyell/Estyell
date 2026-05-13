@@ -30,7 +30,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 ###
 
-<p align="left"><br>📚 I'm currently learning how to write a BRD<br>🎯 Goals: To become a top data specialist<br>🎲 Fun fact: I can swim; but only if my feet are touching the ground</p>
+<p align="left"><br>🎯 Goals: To become a top data specialist<br>🎲 Fun fact: I can swim; but only if my feet are touching the ground</p>
 
 ###
 
